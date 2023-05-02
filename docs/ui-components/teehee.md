@@ -2,8 +2,9 @@
 layout: default
 title: Teehee
 parent: Code with line numbers
+grand_parent: Code
 has_children: false
-nav_order: 6
+permalink: /docs/ui-components/code/line-numbers/teehee
 ---
 
 # Code
